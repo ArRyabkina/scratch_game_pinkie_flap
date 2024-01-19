@@ -5,3 +5,4 @@ You (or Pinkie Pie) must go throught storm clouds in game and take the biggest s
 Idea was taken from popular game Flappy bird.
 There are packman kind monster and supportive baloons.
 You can restart by tapping on whitw button
+video of playing was posted on YT: https://youtu.be/zbFp0Lse2uE
